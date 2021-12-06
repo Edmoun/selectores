@@ -1,0 +1,384 @@
+    1  git branch -M main
+    2  git config --global init.defaultBranch main
+    3  git push --set-upstream origin main\n
+    4  git remote -v
+    5  git push --set-upstream origin main\n
+    6  git init
+    7  git config --global --lis
+    8  git init
+    9  git config --global init.defaultBranch main
+   10  git branch -M main
+   11  git branch
+   12  git branch -M -f  main
+   13  git branch -M main
+   14  git log
+   15  touch README.md
+   16  git add .
+   17  git commit -m "Primer commit"
+   18  git branch -M main
+   19  git status
+   20  git add .
+   21  git commit -m "Nivel_1"
+   22  git push
+   23  gh repo create
+   24  git add .
+   25  git commit -m "Nivel_1"
+   26  git push
+   27  git status
+   28  git add .
+   29  git commit -m "Nivel_2"
+   30  git push
+   31  git add .
+   32  git commit -m "Nivel_3"
+   33  git push
+   34  git add .
+   35  git commit -m "Nivel_4"
+   36  git push
+   37  git add .
+   38  git commit -m "Nivel_5"
+   39  git push
+   40  git add .
+   41  git commit -m "Nivel_6"
+   42  git push
+   43  git add .
+   44  git commit -m "Nivel_7"
+   45  git push
+   46  git status
+   47  git add .
+   48  git commit -m "Nivel_8"
+   49  git push
+   50  git add .
+   51  git commit -m "Nivel_9"
+   52  git push
+   53  git add .
+   54  git commit -m "Nivel_10"
+   55  git push
+   56  git add .
+   57  git commit -m "Nivel_11"
+   58  git push
+   59  git add .
+   60  git commit -m "Nivel_12"
+   61  git push
+   62  git add .
+   63  git commit -m "Nivel_13"
+   64  git push
+   65  git add .
+   66  git commit -m "Nivel_14"
+   67  git push
+   68  git add .
+   69  git commit -m "Nivel_15"
+   70  git push
+   71  git add .
+   72  git commit -m "Nivel_16"
+   73  git push
+   74  git add .
+   75  git commit -m "Nivel_17"
+   76  git push
+   77  git add .
+   78  git commit -m "Nivel_18"
+   79  git push
+   80  git add .
+   81  git commit -m "Nivel_19"
+   82  git push
+   83  git add .
+   84  git commit -m "Nivel_20"
+   85  git push
+   86  git add .
+   87  git commit -m "Nivel_21"
+   88  git push
+   89  git add .
+   90  git commit -m "Nivel_22"
+   91  git push
+   92  git add .
+   93  git commit -m "Nivel_23"
+   94  git push
+   95  git add .
+   96  git commit -m "" Nivel_24
+   97  git push
+   98  git commit -m "Nivel_24"
+   99  git push
+  100  -a
+  101  pwd
+  102  ls -a
+  103  ls
+  104  ls -A
+  105  git init
+  106  git branch -M main
+  107  touch README.md
+  108  git add .
+  109  git commit -m "grid-garden"
+  110  git branch -M main
+  111  git push
+  112  gh repo create
+  113  git push
+  114  git push --set upstream origin main
+  115  git status
+  116  git add .
+  117  git commit -m "Nivel_1"
+  118  git status
+  119  git log
+  120  git init
+  121  git add .
+  122  git commit -m "Primer commit"
+  123  git push
+  124  git remote add origin https://github.com/Edmoun/grid-garden.git\n
+  125  git push -u origin main
+  126  git add .
+  127  sudo apt-get update
+  128  sudo apt-get install node
+  129  sudo apt-get install nodejs
+  130  node -v
+  131  nodejs
+  132  wget -qO - https://typora.io/linux/public-key.asc | sudo apt-key add -\n
+  133  \nsudo add-apt-repository 'deb https://typora.io/linux ./'
+  134  sudo apt-get update
+  135  sudo apt-get install typora
+  136  sudo apt-get update
+  137  git add .
+  138  git commit -m"level_2"
+  139  git push
+  140  git add .
+  141  git commit -m"level_3"
+  142  git push
+  143  git add .
+  144  git commit -m"level_4"
+  145  git push
+  146  git add .
+  147  git commit -m"level_5"
+  148  git push
+  149  git add .
+  150  git commit -m"level_6"
+  151  git push
+  152  git add .
+  153  git commit -m"level_7"
+  154  git push
+  155  git add .
+  156  git commit -m"level_8"
+  157  git push
+  158  git add .
+  159  git commit -m"level_9"
+  160  git push
+  161  git add .
+  162  git commit -m"level_10"
+  163  git push
+  164  sudo apt-get install typora
+  165  git add .
+  166  git commit -m"level_11"
+  167  git push
+  168  git add .
+  169  git commit -m"level_12"
+  170  git push
+  171  git add .
+  172  git commit -m"level_13"
+  173  git push
+  174  git add .
+  175  git commit -m "level_14"
+  176  git push
+  177  git add .
+  178  git commit -m "level_15"
+  179  git push
+  180  git add .
+  181  git commit -m "level_16"
+  182  git push
+  183  git add .
+  184  git commit .m "level_17"
+  185  git push
+  186  git commit -m "level_17"
+  187  git push
+  188  git add .
+  189  git commit -m "level_17"
+  190  git commit -m "level_18"
+  191  git add .
+  192  git commit -m "level_18"
+  193  git push
+  194  git add .
+  195  git commit -m "level_19"
+  196  git push
+  197  git add .
+  198  git commit -m "level_20"
+  199  git push
+  200  git add .
+  201  git commit -m"level_21"
+  202  git push
+  203  git add .
+  204  git commit -m "level_22"
+  205  git push
+  206  git add .
+  207  git commit -m "level_23"
+  208  git push
+  209  git add .
+  210  git commit -m "level_24"
+  211  git push
+  212  git add .
+  213  git commit -m "level_25"
+  214  git push
+  215  git add .
+  216  git commit -m"level_26"
+  217  git push
+  218  git add .
+  219  git commit -m"level_27"
+  220  git push
+  221  git add .
+  222  git commit -m"level_28"
+  223  git push
+  224  git init
+  225  git add .
+  226  gh repo create
+  227  git add .
+  228  git commit -m"Practica de Flexboxs Defense"
+  229  git push
+  230  ^[[200~~
+  231  git push --set-upstream origin master
+  232  git branch -M main
+  233  git init
+  234  git add .
+  235  git commit -m "lvel_1"
+  236  git push
+  237  git push origin HEAD
+  238  git add .
+  239  git commit -m "level_1"
+  240  git push
+  241  git push origin HEAD
+  242  git add .
+  243  git commit -m"level_1"
+  244  git commit -m"level_1.1"
+  245  git log
+  246  git status
+  247  git push
+  248  git push -u origin main
+  249  git push
+  250  git add .
+  251  git commit -m"level_2"
+  252  git push
+  253  git add .
+  254  git commit -m"level_3"
+  255  git push
+  256  git add .
+  257  git commit -m"level_4"
+  258  git push
+  259  git add .
+  260  git commit -m"level_5"
+  261  git push
+  262  git add .
+  263  git commit -m"level_6"
+  264  git push
+  265  git add .
+  266  git commit -m"level_7"
+  267  git push
+  268  git add .
+  269  git commit -m"level_8"
+  270  git push
+  271  git add .
+  272  git commit -m"level_9"
+  273  git push
+  274  git add .
+  275  git commit -m"level_10"
+  276  git push
+  277  git add .
+  278  git commit -m"level_11"
+  279  git push
+  280  git add .
+  281  git commit -m "level_12"
+  282  git push
+  283  git init
+  284  gh repo create
+  285  git add .
+  286  git commit -m "Primer commit"
+  287  git branch -M main
+  288  gh repo create
+  289  git push -u origin main
+  290  git config --global init.defaultBranch main
+  291  git branch ramas_githud
+  292  git branch testing
+  293  HEAD
+  294  git checkout testing
+  295  git log
+  296  git add .
+  297  git commit -m"segundo commit"
+  298  git ush
+  299  git push
+  300  git log
+  301  git checkout testing
+  302  git log
+  303  git log --oneline --decorate --graph --all
+  304  git checkout main
+  305  git merge testing
+  306  git log --oneline --decorate --graph --all
+  307  git branch -d testing
+  308  git log --oneline --decorate --graph --all
+  309  history > history.md
+  310  git add .
+  311  git commit -m "git branch"
+  312  git ush
+  313  git push
+  314  git init
+  315  git add .
+  316  git commit -m"primer commit"
+  317  gh repo create
+  318  git push
+  319  \n    git push --set-upstream origin master
+  320  git branch -M main
+  321  node ./poblema.js
+  322  node ./problema.js
+  323  node ./problema1.js
+  324  git add .
+  325  git commit -m"Primer commit"
+  326  git push
+  327  git push origin HEAD:main
+  328  node ./problema2.js
+  329  node ./problema1.js
+  330  git init
+  331  git add .
+  332  git commit -m"Primer commit"
+  333  git push
+  334  git push <name>
+  335  git branch 
+  336  git branch -M main
+  337  git add .
+  338  git commit -m"Primer commit"
+  339  git push
+  340  git push -u origin main
+  341  clear
+  342  git add .
+  343  git commit -m"Primer commit"
+  344  git commit
+  345  git push
+  346  git push <ejercios-problemas2>
+  347  gh repo create
+  348  git add .
+  349  git commit -m"Primer commit"
+  350  git push
+  351  git push --set-upstream origin main
+  352  node ./problema_1.js
+  353  git commit -m"problema_1"
+  354  git add .
+  355  git commit -m"problema_1"
+  356  git push
+  357  node ./problema_2.js
+  358  git add .
+  359  git commit -m "Problema_2"
+  360  git push
+  361  git add .
+  362  git commit -m "problema_3"
+  363  git push
+  364  node ./problema_3.js
+  365  node ./problema_4.js
+  366  git add .
+  367  git commit -m "problema_4"
+  368  git push
+  369  git init
+  370  git branch -M main
+  371  gh repo create
+  372  git add .
+  373  git commit -m "Primer commit"
+  374  git branch -M main
+  375  git push
+  376  git push --set-upstream origin main
+  377  git add .
+  378  git commit -m "index-embebido"
+  379  git push
+  380  git commit -m"index-enlazado"
+  381  git add .
+  382  git commit -m "index-embebido"
+  383  git push
+  384  ^[[200~El siguiente stron no es hijo de un div por esta~
